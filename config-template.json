@@ -1,0 +1,9 @@
+{
+    "mongopasswd": "",
+    "mongouser": "",
+    "mongohost": "",
+    "auth": {
+        "clientId": "",
+        "clientSecret": ""
+    }
+}
